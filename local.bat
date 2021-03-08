@@ -1,5 +1,3 @@
-cd c:\demoman
+cd C:\demoman
 
-wind64.exe /l driver.sys
-
-pause
+wind64.exe /l C:\demoman\driver.sys
